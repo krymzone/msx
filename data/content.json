@@ -4,15 +4,18 @@
   "items": [
     {
       "title": "Jellyfin",
-      "description": "Home Media Server",
       "icon": "https://jellyfin.org/images/logo.png",
       "action": "link:http://192.168.1.247:8096/web/"
     },
     {
       "title": "Stremio",
-      "description": "Web App",
       "icon": "https://www.stremio.com/static/images/stremio-logo.png",
       "action": "link:https://tv.strem.io/"
+    },
+    {
+      "title": "Add New Link",
+      "icon": "add",
+      "action": "setting:content"
     }
   ]
 }
