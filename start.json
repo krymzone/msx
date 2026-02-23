@@ -1,6 +1,6 @@
 {
     "name": "My Media Station",
     "version": "1.0.0",
-    "parameter": "menu:user:https://krymzone.github.io/msx/data/content.json",
+    "parameter": "content:https://krymzone.github.io/msx/data/content.json",
     "welcome": "none"
 }
