@@ -1,0 +1,10 @@
+{
+  "headline": "Home",
+  "menu": [
+    {
+      "label": "Jellyfin",
+      "icon": "movie",
+      "action": "link:http://192.168.0.232:8096"
+    }
+  ]
+}
