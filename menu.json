@@ -1,5 +1,6 @@
 {
   "headline": "Home",
+  "action": "link:http://192.168.0.232:8096",
   "menu": [
     {
       "label": "Jellyfin",
