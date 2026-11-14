@@ -1,6 +1,6 @@
 {
     "name": "Jellyfin",
     "version": "1.0.0",
-    "parameter": "content:https://krymzone.github.io/msx/data/content.json",
+    "parameter": "link:http://192.168.0.232:8096/web/",
     "welcome": "none"
 }
